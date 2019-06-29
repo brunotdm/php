@@ -1,5 +1,5 @@
 <?php
 
-echo "Hola Mundo! 456";
-echo "Olá Uruguay";
+echo "Hola Mundo! 123456";
+echo "Olá Bruno e Uruguay";
 echo php_info();
